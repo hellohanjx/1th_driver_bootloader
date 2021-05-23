@@ -1,0 +1,20 @@
+#此文件可以忽略文件/文件夹
+# ignore folder
+CM3/
+FWlib/
+Obj/
+startup/
+
+# ignore document
+
+
+
+
+# don't ignore folder
+
+
+
+
+# don't ignore document
+
+
